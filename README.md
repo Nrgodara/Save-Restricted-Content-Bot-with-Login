@@ -12,7 +12,7 @@ A successor of [SAVE RESTRICTED CONTENT BOT REPO](https://github.com/devgaganin/
 
 ### Heroku:
 1. Click the deploy button below to deploy the bot on Heroku.
-   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nrgodara/Save-Restricted-Content-Bot-with-Login)
 
 ### VPS Deployment Method:
 1. Clone this repository to your VPS.
