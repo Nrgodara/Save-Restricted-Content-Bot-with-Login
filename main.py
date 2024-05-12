@@ -5,6 +5,7 @@ import json
 import logging
 import os
 import re
+import telethon
 from telethon import TelegramClient, events
 from telethon.sessions import StringSession
 from telethon.tl.custom.button import Button
