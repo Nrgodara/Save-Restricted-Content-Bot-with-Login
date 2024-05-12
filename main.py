@@ -19,7 +19,7 @@ load_dotenv(override=True)
 API_ID = int(os.getenv("TG_API_ID", "22334176"))
 API_HASH = os.getenv("TG_API_HASH", "c68f6dfa9c118190c615bc54ba584a54")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "7026255630:AAHoM3o4bkpaa8vx9Q6VaTrShFgrwCkd-Tg")
-MONGODB_URL = os.getenv("MONGODB_URL", "mongodb+srv://t25821653:hiichanged@cluster0.bzqexnk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGODB_URL = os.getenv("MONGODB_URL", "mongodb+srv://ddddavvvidwarner:GwcybetDevOH6ocF@cluster0.pkn52pr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 BOT_USERNAME = "Ajkaksnbbot"
 bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
